@@ -1,6 +1,6 @@
 {
   "homepage": "http://murphynd.github.io/walkthecat",
-  "name": "Walkthecat",
+  "name": "walk-the-cat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
